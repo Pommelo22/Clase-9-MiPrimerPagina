@@ -141,6 +141,10 @@ body {
           div img:hover { /* al pasar el cursor sobre la imagen vuelve a tomar el brillo puesto abajo, osea del 100%, NO ESTA FUNCIONANDO, REVISAR POR QUE*/
              filter: brightness (100%);
           }
+
+          .greeting {
+            text-align: center;
+            }
             
           
 
